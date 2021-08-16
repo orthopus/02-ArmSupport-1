@@ -1,4 +1,4 @@
-# AT1X ARM SUPPORT
+# ARM SUPPORT #1
 
 ![Generic badge](https://img.shields.io/badge/CE_Mark-NO-critical.svg)
 
@@ -7,10 +7,10 @@
 
 ![AT1X](assets/at1x_fusion1.png) 
 
-This repository contents the documentation of the ORTHOPUS' AT1X Arm Support which is currently under development.
+This repository contents the documentation of the first ORTHOPUS' Arm Support (also called AT1X) which is currently under development.
 
 This arm support is a motorized device designed to provide technical assistance to people with disabilities by compensating the upper limb and relieve the user facilitating their motion. It helps the user to reach, grip and handle objects as well as perform activities of daily life.
-  
+
 This arm support have 1 free plannar mechanism, 1 actuator-controlled joint and one orthesis.  
 
 The motorized joint receive commands via a 2-buttons remote : one to upper the arm, and one to lower it.
@@ -30,7 +30,7 @@ ORTHOPUS cannot guarantee the “quality” of solutions replicated by third par
 
 ## THIS SOLUTION IS UNDER DEVELOPMENT
 
-**AT1X Arm Support is currently under development and provided code & CAD files can include mistakes and necessitate further improvements. The provided files are shared to provide a first overview of the project.**
+**This Arm Support is currently under development and provided code & CAD files can include mistakes and necessitate further improvements. The provided files are shared to provide a first overview of the project.**
 
 [<img src="assets/at1x_fusion2.png" alt="at1x_fusion"/>](https://a360.co/3jbt1Yi)
 
